@@ -3,7 +3,8 @@
 - 🌱 Currently exploring Generative AI, Quantum Machine Learning and Deep Reinforcement Learning.
 ### 💞️ Open to collaborations
   -   AI for Time Seriese Data Analytics and Inference
-  -   DRL for robotics,
+  -   DRL for Decision Support and Control  
+  -   Intelligent Robotics
   -   AI for Medical Imaging 
   -   Video Surveillance research.
 - 📫 engineersuleman118@gmail.com
