@@ -2,7 +2,7 @@
 - 👀 I’m passionate about using Artificial Intelligence to benefit humanity.
 - 🌱 Currently exploring Generative AI, Quantum Machine Learning and Deep Reinforcement Learning.
 ### 💞️ Open to collaborations
-  -   Time Seriese Data Analytics and Inference
+  -   AI for Time Seriese Data Analytics and Inference
   -   DRL for robotics,
   -   AI for Medical Imaging 
   -   Video Surveillance research.
