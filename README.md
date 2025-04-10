@@ -1,7 +1,11 @@
 # 🤝 Asslaam O Alaikum , I’m Ahmad Suleman
-👀 I’m passionate about using Artificial Intelligence to benefit humanity.
-🌱 Currently exploring Generative AI, Quantum Machine Learning and Deep Reinforcement Learning.
-💞️ Open to collaborations in Time Seriese Data Analytics and Inference, Deep Reinforcement Learning for robotics, medical applications of AI, and Video Surveillance research.
+- 👀 I’m passionate about using Artificial Intelligence to benefit humanity.
+- 🌱 Currently exploring Generative AI, Quantum Machine Learning and Deep Reinforcement Learning.
+### 💞️ Open to collaborations
+  -   Time Seriese Data Analytics and Inference
+  -   DRL for robotics,
+  -   AI for Medical Imaging 
+  -   Video Surveillance research.
 - 📫 engineersuleman118@gmail.com
 
 <!---
