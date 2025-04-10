@@ -1,7 +1,9 @@
-- 🤝 Asslaam O Alaikum , I’m @Ahmad Suleman
-- 👀 I’m interested in Artificial Intelligence for Batterment of Humanity
-- 🌱 I’m currently learning LLMs and Reiforcement learning combinations
-- 💞️ I’m looking to collaborate on robotics, medical and survalance research publications
+# 🤝 Asslaam O Alaikum , I’m @Ahmad Suleman
+👀 I’m passionate about using Artificial Intelligence to benefit humanity.
+
+🌱 Currently exploring the integration of Large Language Models (LLMs) with Reinforcement Learning.
+
+💞️ Open to collaborations in robotics, medical applications, and surveillance research.
 - 📫 engineersuleman118@gmail.com
 
 <!---
