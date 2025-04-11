@@ -4,7 +4,7 @@
 ### 💞️ Open to collaborations
   -   AI for Time Seriese Data Analytics and Inference
   -   DRL for Decision Support and Control  
-  -   Intelligent Robotics
+  -   Human Robot Interaction
   -   AI for Medical Imaging 
   -   Video Surveillance research.
 - 📫 engineersuleman118@gmail.com
