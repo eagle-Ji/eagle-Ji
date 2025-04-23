@@ -10,10 +10,10 @@
 - 📫 engineersuleman118@gmail.com
 ## 🚀 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python--blue?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch--EE4C2C?logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib--ff69b4?logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn--3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python--blue?logo=python&logoColor=blue)
+![PyTorch](https://img.shields.io/badge/PyTorch--EE4C2C?logo=pytorch&logoColor=EE4C2C)
+![Matplotlib](https://img.shields.io/badge/Matplotlib--ff69b4?logo=python&logoColor=ff69b4)
+![Seaborn](https://img.shields.io/badge/Seaborn--3776AB?logo=python&logoColor=3776AB)
 ![Keras](https://img.shields.io/badge/Keras--D00000?logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas--150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy--013243?logo=numpy&logoColor=white)
