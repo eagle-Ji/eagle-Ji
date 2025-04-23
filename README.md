@@ -1,6 +1,6 @@
 # 🤝 Asslaam O Alaikum , I’m Ahmad Suleman
-[![Upwork](https://img.shields.io/badge/Upwork-Freelancer-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ahmadsuleman?mp_source=share)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Gigs-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/ahmad_suleman?public_mode=true)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ahmadsuleman?mp_source=share)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/ahmad_suleman?public_mode=true)
 
 - 👀 I’m passionate about using Artificial Intelligence to benefit humanity.
 - 🌱 Currently exploring Embodied AI, Generative AI, Quantum Machine Learning and Deep Reinforcement Learning.
