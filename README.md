@@ -8,7 +8,7 @@
   -   AI for Medical Imaging 
   -   Video Surveillance research.
 - 📫 engineersuleman118@gmail.com
-## 🚀 Tech Stack & Tools
+## 🧠 AI & 🤖 Robotics Tech Stack 🚀 
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
