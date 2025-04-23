@@ -36,8 +36,6 @@
 #### 🧠 Artificial Intelligence & Machine Learning
 #### ⚙️ Embedded & Control Systems
 #### 📊 Research & Development
-#### 📚 Research Contributions
-#### 🌐 Freelance & Community Involvement
 
 
 
