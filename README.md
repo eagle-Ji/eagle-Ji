@@ -22,6 +22,15 @@
 
 ![ROS1 Noetic](https://img.shields.io/ros/v/noetic/moveit_msgs?style=flat-square&logo=ros&logoColor=white)
 ![ROS2 Humble](https://img.shields.io/ros/v/humble/vision_msgs?style=flat-square&logo=ros&logoColor=white)
+## 🤖 Robotics & AI Tools
+
+![ROS1 Noetic](https://img.shields.io/badge/ROS1-Noetic-blue?logo=ros)
+![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-brightgreen?logo=ros)
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity.com)
+![ML-Agents](https://img.shields.io/badge/ML--Agents-0D96F6?logo=unity&logoColor=white)
+![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-FF9900?logo=python&logoColor=white)
+![Ray RLlib](https://img.shields.io/badge/Ray--RLlib-0033A0?logo=ray&logoColor=white)
+![TorchRL](https://img.shields.io/badge/TorchRL-EE4C2C?logo=pytorch&logoColor=white)
 
 
 
