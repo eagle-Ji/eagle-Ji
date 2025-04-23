@@ -31,6 +31,38 @@
 ![TorchRL](https://img.shields.io/badge/TorchRL-EE4C2C?logo=pytorch&logoColor=white)
 
 
+# 🧠 Core Areas of Expertise
+
+## 🤖 Robotics & Autonomous Systems
+- Development and deployment of hexapod and quadruped robots *(Jethexa, Unitree GO1)*
+- Simulation-to-real-world transitions for locomotion and obstacle avoidance
+- Visual-inertial SLAM and sensor fusion
+- Robotics control using **ROS1**, **ROS2**, and **Unity 3D**
+- Simulation environments with **Gazebo** and **OpenAI Gym**
+
+## 🧠 Artificial Intelligence & Machine Learning
+- Deep Learning: **CNN**, **DQN**, **Double DQN**, **Dueling DQN**, **DRQN**, **Monte Carlo**, **Q-Learning**, **SARSA**
+- Deep Reinforcement Learning (DRL) for robotics, energy systems, and interactive environments
+- Markov Decision Processes (MDP) and RL-based simulations
+- Accent recognition and song beat detection using Neural Networks
+
+## ⚙️ Embedded & Control Systems
+- FPGA-based control systems for digital textile printing machines
+- Hands-on experience with power plant control room operations and troubleshooting
+- Integration of visual, acoustic, and laser sensors for robotics and automation
+
+## 📊 Research & Development
+- Design and execution of intelligent robotics workshops and seminars
+- Freelance consulting in AI, DRL, and robotics simulation
+- R&D in multi-agent environments, policy/value iteration methods
+
+## 📚 Research Contributions
+- Published in **IEEE Access**, **IEEE Sensors Journal**, **ICET**, and **ICEEST**
+- Focused topics: DRL for renewable energy scheduling, smart EV energy management, COVID-19 detection using wearables, VPP optimization
+
+## 🌐 Freelance & Community Involvement
+- Active profiles on **Fiverr** and **Upwork** for AI/ML consultations
+- Conducted training sessions and collaborated with academia and industry clients
 
 
 
