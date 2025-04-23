@@ -6,7 +6,7 @@
 
 - 👀 I’m passionate about using Artificial Intelligence to benefit humanity.
 - 🌱 Currently exploring Embodied AI, Generative AI, and Quantum Machine Learning.
-- 🌟 **Core Expertise:** Deep Reinforcement Learning 🧬
+- 🌟 **Core Expertise:** Deep Reinforcement Learning 
 ### 💞️ Open to collaborations
   -   AI for Time Seriese Data Analytics and Inference
   -   Deep Reinforcement Learning for Decision Support and Control  
