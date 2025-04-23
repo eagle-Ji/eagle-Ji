@@ -31,11 +31,12 @@
 ![TorchRL](https://img.shields.io/badge/TorchRL-EE4C2C?logo=pytorch&logoColor=white)
 
 
-# Core Areas of Expertise
-#### 🤖 Robotics & Autonomous Systems
-#### 🧠 Artificial Intelligence & Machine Learning
-#### ⚙️ Embedded & Control Systems
-#### 📊 Research & Development
+## Core Areas of Expertise
+✅ Robotics & Autonomous Systems  
+✅ Artificial Intelligence & Machine Learning  
+✅ Embedded & Control Systems  
+✅ Research & Development  
+
 
 
 
