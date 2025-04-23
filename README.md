@@ -6,8 +6,8 @@
 - 🌱 Currently exploring Embodied AI, Generative AI, Quantum Machine Learning and Deep Reinforcement Learning.
 ### 💞️ Open to collaborations
   -   AI for Time Seriese Data Analytics and Inference
-  -   DRL for Decision Support and Control  
-  -   Human Robot Interaction
+  -   Deep Reinforcement Learning for Decision Support and Control  
+  -   Human Robot Interaction (Multimodal)
   -   AI for Medical Imaging 
   -   Video Surveillance research.
 - 📫 engineersuleman118@gmail.com
