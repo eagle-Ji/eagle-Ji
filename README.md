@@ -20,8 +20,8 @@
 ![Docker](https://camo.githubusercontent.com/9c5b3093510b4cd0475f588b385657d4cb21f1945a5070125e3d6fc89c0b839d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f6c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
 ## 🤖 ROS Ecosystem
 
-![ROS1 Noetic – moveit_msgs](https://img.shields.io/ros/v/noetic/moveit_msgs?style=flat-square&logo=ros&logoColor=white)
-![ROS2 Humble – vision_msgs](https://img.shields.io/ros/v/humble/vision_msgs?style=flat-square&logo=ros&logoColor=white)
+![ROS1 Noetic](https://img.shields.io/ros/v/noetic/moveit_msgs?style=flat-square&logo=ros&logoColor=white)
+![ROS2 Humble](https://img.shields.io/ros/v/humble/vision_msgs?style=flat-square&logo=ros&logoColor=white)
 
 
 
