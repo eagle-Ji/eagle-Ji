@@ -13,7 +13,8 @@
 - 📫 engineersuleman118@gmail.com
 
 ### Core Areas of Expertise
-✅ Robotics & Autonomous Systems  ✅ Artificial Intelligence & Machine Learning   ✅ Embedded & Control Systems  ✅ Research & Development  
+✅ Robotics & Autonomous Systems  ✅ Artificial Intelligence & Machine Learning   ✅ Embedded & Control Systems  
+✅ Research & Development  
 
 ### 🔧 Tools & Frameworks 
 
