@@ -32,12 +32,12 @@
 
 
 # Core Areas of Expertise
-## 🤖 Robotics & Autonomous Systems
-## 🧠 Artificial Intelligence & Machine Learning
-## ⚙️ Embedded & Control Systems
-## 📊 Research & Development
-## 📚 Research Contributions
-## 🌐 Freelance & Community Involvement
+#### 🤖 Robotics & Autonomous Systems
+#### 🧠 Artificial Intelligence & Machine Learning
+#### ⚙️ Embedded & Control Systems
+#### 📊 Research & Development
+#### 📚 Research Contributions
+#### 🌐 Freelance & Community Involvement
 
 
 
