@@ -11,7 +11,11 @@
   -   AI for Medical Imaging 
   -   Video Surveillance research.
 - 📫 engineersuleman118@gmail.com
-## 🔧 Tools & Frameworks 
+
+### Core Areas of Expertise
+✅ Robotics & Autonomous Systems  ✅ Artificial Intelligence & Machine Learning   ✅ Embedded & Control Systems  ✅ Research & Development  
+
+### 🔧 Tools & Frameworks 
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -31,11 +35,7 @@
 ![TorchRL](https://img.shields.io/badge/TorchRL-EE4C2C?logo=pytorch&logoColor=white)
 
 
-## Core Areas of Expertise
-✅ Robotics & Autonomous Systems  
-✅ Artificial Intelligence & Machine Learning  
-✅ Embedded & Control Systems  
-✅ Research & Development  
+
 
 
 
