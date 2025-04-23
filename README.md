@@ -1,7 +1,7 @@
 # 🤝 Asslaam O Alaikum , I’m Ahmad Suleman
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ahmadsuleman?mp_source=share)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/ahmad_suleman?public_mode=true)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ahmad-Suleman?ev=hdr_xprf)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ahmad-Suleman?ev=hdr_xprf)
 
 
 - 👀 I’m passionate about using Artificial Intelligence to benefit humanity.
