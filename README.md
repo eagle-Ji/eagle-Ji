@@ -6,13 +6,13 @@
 
 - 👀 I’m passionate about using Artificial Intelligence to benefit humanity.
 - 🌱 Currently exploring Embodied AI, Generative AI, and Quantum Machine Learning.
-- 🌟 **Core Expertise:** Deep Reinforcement Learning 
+- 🌟 **Core Expertise:** Deep Reinforcement Learning & Robotics
 ### 💞️ Open to collaborations
   -   AI for Time Seriese Data Analytics and Inference
   -   Deep Reinforcement Learning for Decision Support and Control  
   -   Human Robot Interaction (Multimodal)
-  -   AI for Medical Imaging 
-  -   Video Surveillance research.
+  -   Explainable AI
+  -   Video Analytics.
 - 📫 engineersuleman118@gmail.com
 
 ### Core Areas of Expertise
