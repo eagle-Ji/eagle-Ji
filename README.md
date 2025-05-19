@@ -8,8 +8,8 @@
 - 🌱 Currently exploring Embodied AI, Generative AI, and Quantum Machine Learning.
 - 🌟 **Core Expertise:** Deep Reinforcement Learning & Robotics
 ### 💞️ Open to collaborations
-  -   AI for Time Seriese Data Analytics and Inference
-  -   Deep Reinforcement Learning for Decision Support and Control  
+  -   **Deep Reinforcement Learning** for Decision Support and Control
+  -   AI for Time Seriese Data Analytics and Inference 
   -   Human Robot Interaction (Multimodal)
   -   Explainable AI
   -   Video Analytics.
