@@ -12,7 +12,7 @@
   -   AI for Time Seriese Data Analytics and Inference 
   -   Human Robot Interaction (Multimodal)
   -   Explainable AI
-  -   Video Analytics.
+  -   Sports Video Analytics.
 - 📫 engineersuleman118@gmail.com
 
 ### Core Areas of Expertise
